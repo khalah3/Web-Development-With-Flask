@@ -1,3 +1,6 @@
+#This program uses flask in order to create a local server with certain html elements h1 heading and some image
+#This uses decorators to format messages and app.route to format messages displayed on different sites like URL/<user_input>
+
 from flask import Flask
 import random
 
